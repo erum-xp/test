@@ -1,0 +1,33 @@
+.div-1{
+    height: 700px;
+    width: 50%;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.child-div{
+    height: 100px;
+    width: 200px;
+
+}
+#box1{
+    background-color: yellowgreen;
+    margin: 10px;
+}
+#box2{
+    background-color: skyblue;
+    margin: 10px;
+
+}
+#box3{
+    background-color: gray;
+    margin: 10px;
+
+}
+#box4{
+    background-color: aqua;
+    margin: 10px;
+
+}
